@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abdullah Azam Khan
+- 👀 I’m interested in React Native and React
+- 🌱 I’m currently learning React/Next
+- 📫 How to reach me: [LinkedIn]: (https://www.linkedin.com/in/abdullah-azam-a5bb2024a/)
